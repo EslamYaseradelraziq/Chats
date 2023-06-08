@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="addRoomTitle">Add Room</string>
+    <string name="sport">sports\n</string>
+    <string name="music">music\n</string>
+    <string name="movies">movies\n</string>
+
+    <array name="Category_Spinner">
+        <item>Sports</item>
+        <item>Movies</item>
+        <item>Musics</item>
+    </array>
+</resources>

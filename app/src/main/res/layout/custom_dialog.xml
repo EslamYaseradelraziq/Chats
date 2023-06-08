@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/custom_dialog_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This is a custom dialog!"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/custom_dialog_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OK" />
+
+    </LinearLayout>
+
+</layout>
